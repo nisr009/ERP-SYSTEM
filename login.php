@@ -41,7 +41,7 @@
     </style>
   </head>
   <body style="background-color:#74B9FF;">
-    <h1 style="background-color:#777E8B;">erp- welcome</h1>
+    <h1 style="background-color:#777E8B;">erp  welcome</h1>
 
     <div class="faculty">
       <h3 style="background-color:#f3ca14;text-align: center;">Faculty Login</h3>
